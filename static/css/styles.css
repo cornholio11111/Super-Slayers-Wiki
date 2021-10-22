@@ -71,7 +71,7 @@ p1 {
 
 
 button {
-    background-color: #ff8b3d;
+    background-color: #1e847f;
     border-radius: 8px;
     border: none;
     padding: 9px 25px;
@@ -90,8 +90,9 @@ button {
 }
 
 button:hover {
-    background-color: #ff9249;
+    background-color: #2a6b68;
 }
+
 button text {
     font-family: "Montserrat", sans-serif;
 }
